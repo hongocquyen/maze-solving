@@ -1,0 +1,9 @@
+0
+xxxxxxxx
+x      x
+x S    x
+xxxxxx x
+x      x
+       x
+x      x
+xxxxxxxx
